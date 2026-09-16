@@ -1,0 +1,24 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+
+# Data
+data/
+*.sqlite
+*.db
+
+# Logs & Transcripts
+agent_transcripts/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
